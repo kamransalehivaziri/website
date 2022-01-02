@@ -4,9 +4,10 @@ role: PhD student in theoretical physics
 avatar_filename: img_5214.jpg
 bio: Kamran Salehi Vaziri spends his time thinking about Quantum Field Theories
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Field Theory
+  - AdS/CFT Correspondence and Holography
+  - Conformal Bootstrap
+  - Cosmology
 social:
   - icon: envelope
     icon_pack: fas
