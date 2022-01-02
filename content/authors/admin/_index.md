@@ -1,6 +1,7 @@
 ---
 title: Kamran Salehi Vaziri
 role: PhD student at EPFL
+avatar_filename: img_5214.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
