@@ -38,15 +38,15 @@ organizations:
     url: https://www.epfl.ch/labs/het/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD
+      institution: EPFL
+      year: 2022
+    - course: MSc
+      institution: University of California at Riverside
+      year: 2014
+    - course: BSc
+      institution: Sharif University of Technology
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
