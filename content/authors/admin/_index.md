@@ -43,7 +43,7 @@ education:
       year: 2022
     - course: MSc
       institution: University of California at Riverside
-      year: 2014
+      year: 2017
     - course: BSc
       institution: Sharif University of Technology
       year: 2016
