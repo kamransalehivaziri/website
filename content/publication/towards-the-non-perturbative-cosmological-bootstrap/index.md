@@ -3,7 +3,8 @@ title: Towards the Non-perturbative Cosmological Bootstrap
 publication_types:
   - "2"
 authors:
-  - Matthijs Hogervorst
+  - '{{< staticref "https://inspirehep.net/authors/1261574" "newtab" >}}Matthijs
+    Hogervorst{{< /staticref >}}.'
   - Joao Penedones
   - Kamran Salehi Vaziri
 author_notes: []
