@@ -1,9 +1,8 @@
 ---
 title: Kamran Salehi Vaziri
-role: PhD student at EPFL
+role: PhD student in theoretical physics
 avatar_filename: img_5214.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Kamran Salehi Vaziri spends his time thinking about Quantum Field Theories
 interests:
   - Artificial Intelligence
   - Computational Linguistics
