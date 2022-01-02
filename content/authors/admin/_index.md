@@ -22,8 +22,8 @@ social:
     link: http://arxiv.org/a/salehivaziri_k_1
     icon_pack: ai
     icon: arxiv
-  - icon: google
-    icon_pack: fab
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=jd7V4o8AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
