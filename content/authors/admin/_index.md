@@ -15,8 +15,8 @@ social:
   - display:
       header: false
     link: https://inspirehep.net/authors/1879379
-    icon_pack: fab
-    icon: inspirehep
+    icon_pack: ai
+    icon: inspire
   - display:
       header: false
     link: http://arxiv.org/a/salehivaziri_k_1
@@ -33,12 +33,6 @@ social:
     link: https://orcid.org/0000-0002-1494-311X
     icon_pack: ai
     icon: orcid
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
