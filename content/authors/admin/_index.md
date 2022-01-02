@@ -53,4 +53,4 @@ highlight_name: true
 ---
 Kamran Salehi Vaziri was born in Tehran, Iran and fell in love with physics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
