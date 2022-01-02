@@ -28,6 +28,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/kamran-salehi-vaziri-514549ab/
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-1494-311X
+    icon_pack: ai
+    icon: orcid
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
