@@ -1,5 +1,5 @@
 ---
-title: Towards the Non-perturbative Cosmological Bootstrap
+title: Towards the non-perturbative cosmological bootstrap
 publication_types:
   - "2"
 authors:
