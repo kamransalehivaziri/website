@@ -24,6 +24,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://inspirehep.net/authors/1879379
+    icon_pack: fab
+    icon: inspirehep
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
