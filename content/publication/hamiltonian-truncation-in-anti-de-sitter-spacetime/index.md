@@ -2,6 +2,11 @@
 title: Hamiltonian truncation in Anti-de Sitter spacetime
 publication_types:
   - "2"
+authors:
+  - Matthijs Hogervorst
+  - Marco Meineri
+  - Joao Penedones
+  - Kamran Salehi Vaziri
 doi: "10.1007/JHEP08(2021)063 "
 publication: Journal of High Energy Physics  (JHEP)
 abstract: >-
