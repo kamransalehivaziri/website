@@ -1,7 +1,6 @@
 ---
 title: Hamiltonian truncation in Anti-de Sitter spacetime
 publication_types:
-  - "0"
   - "2"
 doi: "10.1007/JHEP08(2021)063 "
 publication: Journal of High Energy Physics  (JHEP)
@@ -33,5 +32,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-01-02T16:04:34.099Z
+date: 2021-08-16T15:08:00.000Z
 ---
