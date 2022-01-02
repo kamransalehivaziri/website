@@ -34,8 +34,8 @@ social:
     icon_pack: ai
     icon: orcid
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: École Polytechnique Fédérale de Lausanne (EPFL)
+    url: https://www.epfl.ch/labs/het/
 education:
   courses:
     - course: PhD in Artificial Intelligence
