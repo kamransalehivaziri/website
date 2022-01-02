@@ -1,7 +1,7 @@
 ---
 title: Kamran Salehi Vaziri
 role: PhD student in theoretical physics
-avatar_filename: img_5214.jpg
+avatar_filename: avatar.jpg
 bio: Kamran Salehi Vaziri spends his time thinking about Quantum Field Theories
 interests:
   - Quantum Field Theory
