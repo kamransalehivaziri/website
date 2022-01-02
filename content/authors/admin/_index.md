@@ -32,8 +32,8 @@ social:
   - display:
       header: false
     link: http://arxiv.org/a/salehivaziri_k_1
-    icon_pack: fab
-    icon: twitter
+    icon_pack: ai
+    icon: arxiv
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
