@@ -17,8 +17,13 @@ social:
     link: https://inspirehep.net/authors/1879379
     icon_pack: fab
     icon: inspirehep
-  - icon: graduation-cap
-    icon_pack: fas
+  - display:
+      header: false
+    link: http://arxiv.org/a/salehivaziri_k_1
+    icon_pack: ai
+    icon: arxiv
+  - icon: google
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=jd7V4o8AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
@@ -29,11 +34,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - display:
-      header: false
-    link: http://arxiv.org/a/salehivaziri_k_1
-    icon_pack: ai
-    icon: arxiv
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
