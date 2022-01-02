@@ -6,7 +6,7 @@ bio: Kamran Salehi Vaziri spends his time thinking about Quantum Field Theories
 interests:
   - Quantum Field Theory
   - AdS/CFT Correspondence and Holography
-  - Conformal Bootstrap
+  - Conformal and S-matrix Bootstrap
   - Cosmology
 social:
   - icon: envelope
